@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AntiBlueWhale</string>
+    <string name="task1">Task # 01</string>
+    <string name="task2">Task # 02</string>
+    <string name="task3">Task # 03</string>
+    <string name="task4">Task # 04</string>
+    <string name="task5">Task # 05</string>
+    <string name="task">Help Needy People!</string>
+    <string name="app_title">Anti Blue Whale Game</string>
+    <string name="intro_app">Save your Life!</string>
+
+
+
+</resources>
